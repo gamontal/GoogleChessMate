@@ -1,0 +1,14 @@
+{
+  "name": "googlechessmate",
+  "version": "1.0.0",
+  "description": "A powerful chess game for Google Actions allowing humans to interact with the Google Assistant to play a game of chess.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabe Montalvo",
+  "license": "Apache/2.0",
+  "dependencies": {
+    "actions-on-google": "^2.13.0",
+    "uci": ""
+  }
+}
